@@ -1,0 +1,9 @@
+{
+    "compilerOptions": {
+            "outDir": "./",
+            "target" : "es6",
+            "module" : "CommonJS",
+            "allowJs": true
+    }
+}
+
